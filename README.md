@@ -2,7 +2,7 @@
 
 A Docker image to help with compiling sourcemod plugins
 
-This will compile your plugin against the latest version of sourcemod (currently 1.9 builds)
+This will compile your plugin against the latest version of sourcemod (currently 1.10 builds)
 
 ## To use this using the pre-built docker image
 https://hub.docker.com/r/sktan/docker-sourcemod
